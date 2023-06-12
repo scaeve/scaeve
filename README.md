@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Michiel</h1>
+<h1 align="center">Hi 🥷, I'm Michiel</h1>
 <h3 align="center">A passionate frontend developer from The Netherlands</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scaeve&label=Profile%20views&color=0e75b6&style=flat" alt="scaeve" /> </p>
 
-- 🔭 I’m currently working on [my bachelor in Open-ICT](https://husite.nl/open-ict/)
+- 👨‍💻 I’m currently working on [my bachelor in Open-ICT](https://husite.nl/open-ict/)
 
 - 🌱 I’m currently learning **React, PHP and touching grass**
 
-- 👯 I’m looking to collaborate on **anything**
+- 💼 I’m looking to collaborate on **anything**
 
-- 👨‍💻 All of my projects are available at [www.michielvdschaaf.com](www.michielvdschaaf.com)
+- 💾 All of my projects are available at [www.michielvdschaaf.com](www.michielvdschaaf.com)
 
 - 📫 How to reach me **michiel.vanderschaaf@student.hu.nl**
 
