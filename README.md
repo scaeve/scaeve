@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Michiel</h1>
-<h3 align="center">I have no idea what I'm actually doing</h3>
+<h3 align="center">Trying to learn new technologies while having fun.</h3>
 
 - I’m currently pursuing my [my bachelor in Open-ICT](https://husite.nl/open-ict/)
 
