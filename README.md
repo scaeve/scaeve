@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Michiel</h1>
 <h3 align="center">Trying to learn new technologies while having fun.</h3>
 
-- I’m currently pursuing my [my bachelor in Open-ICT](https://husite.nl/open-ict/)
+- I’m currently pursuing [my bachelor in Open-ICT](https://husite.nl/open-ict/)
 
 - I’m looking to collaborate on **basically anything**
 
