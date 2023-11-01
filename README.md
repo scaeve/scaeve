@@ -5,4 +5,3 @@
 </p>
 <br></br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scaeve&show_icons=true&theme=dracula&locale=en" alt="scaeve" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scaeve&" alt="scaeve" /></p>
